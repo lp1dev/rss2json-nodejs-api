@@ -1,0 +1,12 @@
+{
+    "name": "rss-api",
+    "main": "rssApi.js",
+    "dependencies": {
+        "express": "~4.0.0",
+	"request": "~2.0.0",
+	"xml2js": "~0.4.0"
+    },
+    "scripts":{
+	"start":"node rssApi.js"
+    }
+}
